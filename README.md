@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ivicastasuk
-- 👀 I’m interested in HTML, CSS, JS, SCSS, PHP, MySQL, ...
-- 🌱 I’m currently learning NodeJS.
-- 💞️ I want to collaborate on website development or browser-based games.
+- 👀 I’m interested in `HTML` `CSS` `JS` `SCSS` `PHP` `MySQL` `NodeJS` `ExpressJS` `ElectronJS` `Apache Cordova` ...
+- 🌱 I’m currently learning... 
+- 💞️ I want to collaborate on website development, web application development, or browser-based games.
 - 📫 You can contact me here or at ivica@stasuk.net
 
 <!---
